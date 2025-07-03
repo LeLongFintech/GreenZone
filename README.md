@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GreenZone - Nền tảng Blockchain cho Nông sản
 
 GreenZone là một ứng dụng web sử dụng công nghệ blockchain để quản lý và theo dõi chuỗi cung ứng nông sản. Ứng dụng cho phép đăng ký sản phẩm, theo dõi quá trình sản xuất và xác thực nguồn gốc thông qua smart contract.
@@ -188,3 +189,6 @@ MIT License - xem file LICENSE để biết thêm chi tiết
 ## 🙏 Cảm ơn
 
 Cảm ơn bạn đã quan tâm đến dự án GreenZone! Chúng tôi hy vọng ứng dụng này sẽ góp phần thúc đẩy tính minh bạch và an toàn trong chuỗi cung ứng nông sản. 
+=======
+# GreenZone
+>>>>>>> 3b8a2e362e9a1ab362f4244d4446bed4d3c825b0
