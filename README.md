@@ -180,14 +180,11 @@ GreenZone-Loc/
 MIT License - xem file LICENSE để biết thêm chi tiết
 
 ## 📞 Liên hệ
-
-- Email: info@greenzone.vn
-- Website: https://greenzone.vn
-- GitHub: https://github.com/greenzone-loc
-
+- Sđt: 0379289951
+- Email: hoanglongstudy210505@gmail.com
+- GitHub: https://github.com/LeLongFintech/GreenZone
 ## 🙏 Cảm ơn
 
 Cảm ơn bạn đã quan tâm đến dự án GreenZone! Chúng tôi hy vọng ứng dụng này sẽ góp phần thúc đẩy tính minh bạch và an toàn trong chuỗi cung ứng nông sản. 
 =======
 # GreenZone
->>>>>>> 3b8a2e362e9a1ab362f4244d4446bed4d3c825b0
