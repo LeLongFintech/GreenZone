@@ -175,9 +175,6 @@ GreenZone-Loc/
 4. Push to branch
 5. Tạo Pull Request
 
-## 📄 License
-
-MIT License - xem file LICENSE để biết thêm chi tiết
 
 ## 📞 Liên hệ
 - Sđt: 0379289951
